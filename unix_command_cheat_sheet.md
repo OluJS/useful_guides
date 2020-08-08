@@ -6,7 +6,7 @@ Unix is an operating system that has the ability to orchestrate the various part
 
 Commands 📝 
 ------
-⚫FILE COMMANDS:
+⚫ FILE COMMANDS:
 
 | Command              | Description                                             |
 | -------------        |---------------------------------------------------------|
